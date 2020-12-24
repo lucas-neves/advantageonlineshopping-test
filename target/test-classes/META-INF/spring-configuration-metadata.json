@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "login",
+      "type": "com.advantageonlineshopping.pageobjects.LoginPopUp",
+      "sourceType": "com.advantageonlineshopping.pageobjects.LoginPopUp"
+    },
+    {
+      "name": "novousuario",
+      "type": "com.advantageonlineshopping.pageobjects.NovoUsuario",
+      "sourceType": "com.advantageonlineshopping.pageobjects.NovoUsuario"
+    },
+    {
+      "name": "paginainicial",
+      "type": "com.advantageonlineshopping.pageobjects.PaginaInicial",
+      "sourceType": "com.advantageonlineshopping.pageobjects.PaginaInicial"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

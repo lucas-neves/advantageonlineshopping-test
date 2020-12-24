@@ -1,0 +1,6 @@
+com\advantageonlineshopping\pageobjects\NovoUsuario.class
+com\advantageonlineshopping\CucumberTest.class
+com\advantageonlineshopping\pageobjects\PaginaInicial.class
+com\advantageonlineshopping\TestApplication.class
+com\advantageonlineshopping\steps\CucumberStepDefs.class
+META-INF\spring-configuration-metadata.json
